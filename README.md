@@ -2,7 +2,6 @@
 
 Welcome to the repository for my personal portfolio website! This website showcases my skills, projects, and experiences. You can view the live website here: [Tabrej Alam Portfolio](https://tabrejalam.live/)
 
-![Tabrej Alam Portfolio](screenshot.png)
 
 ## Table of Contents
 - [Description](#description)
@@ -57,7 +56,7 @@ I welcome contributions and suggestions to enhance my portfolio website. If you'
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available To use for Free !!
 
 Thank you for visiting my portfolio website repository! If you have any questions or feedback, feel free to contact me through the provided channels on the website.
 
